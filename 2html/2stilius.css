@@ -1,0 +1,61 @@
+	body{
+		background-color: #366D36;
+	}
+	h1{
+		text-align: center;
+		font-family: "Georgia";
+        font-size: 70px;
+	}
+	table.b{
+		width: 100%;
+	}
+	td.bb{
+		width:33%;
+	
+	}
+	.pav{
+		text-align: center;
+		font-family: "Georgia";
+        font-size: 40px;
+	}
+	table.a, td{
+		width: 50%;
+		table-layout: fixed;
+	}
+	tr.aa{
+		vertical-align: top;
+		padding: 10px;
+		height: 80px;
+	}
+	a.mm:link, a.mm:visited{
+		background-color: #366D36;
+		color: black;
+		border:1px solid #0A3409;
+		text-decoration: none;
+		padding: 15px 25px;
+		display: inline-block;
+	}
+	a.mm:hover, a.mm:active{
+		background-color:#0A3409;
+		border:1px solid #0A3409;
+		color: black;
+
+	}
+	#autorius{
+		color: #0A3409;
+		font-size: 15px;
+		text-align: right;
+	}
+	a.c:hover{
+		border:1px solid #366D36;
+	}
+	a.e:link, a.e:visited{
+		text-align: center;
+		font-family: "Georgia";
+		font-size: 40px;
+		text-decoration: none;
+		color: black;
+	}
+	a.e:hover, a.e:active{
+		color: #0A3409;
+	}
