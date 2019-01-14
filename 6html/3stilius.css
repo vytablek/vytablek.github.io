@@ -1,0 +1,117 @@
+body{
+    background-color: #929aa2;
+}
+.pagrindinisfonas{
+    background-color: #929aa2;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    position: absolute;
+}
+.fonas{
+    background-color: #929aa2;
+    width: 60vw;
+    height: 100%;
+    margin: auto;
+    padding-top: 6px;
+    padding-left: 6px;
+}
+.juosta{
+    width: 70.5%;
+    height: 7.5%;
+    background-color:#929aa2;
+    margin: auto;
+    
+}
+.pagrpav{
+    width: 100%;
+    height: 70%;
+    background-color: #929aa2;
+    position: relative;
+}
+.pav1{
+    width: 14.28%;
+    background-color:#929aa2;
+    height: 100%;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+a.j:link, a.j:visited{
+    width: 14.28%;
+    background-color: #929aa2;
+    height: 67%;
+    float: left;
+	padding-top:25px;
+    text-align: center;
+    font-family: 'Advent Pro';
+    font-size: 1.2vw;
+    color: #1d2625;
+    text-decoration: none;
+}
+a.j:hover, a.j:active{
+    background-color: #1d2625;
+    color: #929aa2
+}
+.pavadinimas{
+    position: absolute;
+	font-family: 'Charmonman';
+    top: 60%;
+    width: 100%;
+    text-align: center;
+    font-size: 7vw;
+    color: #929aa2;
+}
+.strpav{
+    width: 100%;
+    height: 10.5vw;
+}
+.strant{
+    width: 90%;
+    margin: auto;
+    height: 7%;
+    font-family: 'Advent Pro';
+    font-size: 1.2vw;
+    color: #929aa2;
+    border-bottom: 2px solid #3a5154;
+    text-align: center;
+}
+.strtek{
+    width: 100%;
+    height:30%;
+    margin-top: 5px;
+    font-family: 'Cormorant Upright';
+    font-size: 1vw;
+    color: #929aa2;
+    text-align: center;
+}
+.strdat{
+    width: 100%;
+    margin-top: 5px;
+    font-family: 'Cormorant Upright';
+    font-size: 1vw;
+    color: #3a5154;
+    text-align: center;
+}
+a.str:link, a.str:visited{
+    background-color:#1d2625;
+    width: 18.2vw;
+    height: 20vw;
+    float: left;
+    margin:5px;
+    padding: 8px;
+    text-decoration: none;
+}
+a.str:hover, a.str:active{
+    background-color: #3a5154;
+}
+.fk{
+	float:left;
+	width: 18.2vw;
+	height:13.65vw;
+}
+.fd{
+	float:right;
+	width: 18.2vw;
+	height:13.65vw;
+}
